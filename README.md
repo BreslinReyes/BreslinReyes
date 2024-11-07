@@ -1,4 +1,5 @@
-## Hi there 👋
+## ¡Hola! Soy Breslin👋
+Estudiante de Desarrollo Web con sólida base en HTML, CSS y JS. Tengo experiencia en creación de interfaces de usuario y desarrollo de aplicaciones web interactivas, Busco un desafío en un equipo ágil para contribuir con mis habilidades en proyectos innovadores y crear soluciones que faciliten la vida de las personas.
 
 <!--
 **BreslinReyes/BreslinReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
